@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959829343942",
+    "project_id": "d3lite-app",
+    "storage_bucket": "d3lite-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959829343942:android:e91c83e3156146e83ee1c7",
+        "android_client_info": {
+          "package_name": "com.example.d3lite_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959829343942-m1opt3embi179r3h30sg5bv169744e9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEoTgbBkdoQtKnRpivTTekUdZlamHvMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959829343942-m1opt3embi179r3h30sg5bv169744e9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
