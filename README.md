@@ -9,7 +9,7 @@ To run this project on your local machine, you will need:
 - An Android emulator or a physical Android device
 
 ## Installation
-1. Clone this repository to your local machine using `git clone https://github.com/<YOUR_GITHUB_USERNAME>/D3-Light.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/gmacheta/D3-Light.git`.
 2. Open the project in Android Studio.
 3. Connect an Android device or start an emulator.
 4. Run the project by clicking on the Run button in Android Studio or by using the terminal command `flutter run`.
