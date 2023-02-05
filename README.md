@@ -16,6 +16,7 @@ To run this project on your local machine, you will need:
 
 ## D3-Absorbtion-Algo
 Vitamin D3 absorbtion is dependent on so many factors and changes from person to another, so we created an algorithim that will helps us calculate each person's absorbtion rate and needs, check d3algo.py for the algorithm.
+def statement is the function itself, all the indented part is the function contents, everything after if __name__ == '__main__': is code that tests and displays functionality with random number generator.
 
 ## License
 This project was submitted to CruzHacks 2023.
