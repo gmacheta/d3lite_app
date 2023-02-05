@@ -1,6 +1,6 @@
 # D3-Light
 
-D3-Light is a project built using Flutter and Android Studio that aims to bring convenience and innovation to your daily life.
+D3-Light is an app that helps you track your Vit D3 intake from the sun, by tracking the location's uv index and all the other factors that go into absorbing this vitamin and sets a daily goal of absorbtion to hit.
 
 ## Requirements
 To run this project on your local machine, you will need:
@@ -14,11 +14,8 @@ To run this project on your local machine, you will need:
 3. Connect an Android device or start an emulator.
 4. Run the project by clicking on the Run button in Android Studio or by using the terminal command `flutter run`.
 
-## Usage
-Once you have installed the project, you can use it on your Android device. Explore the features and functionality of D3-Light and feel free to modify the code to suit your needs.
-
-## Contributing
-We welcome contributions to this project. If you have an idea for a new feature or have found a bug, please open an issue on GitHub. For more information on how to contribute, please see the `CONTRIBUTING.md` file.
+## D3-Absorbtion-Algo
+Vitamin D3 absorbtion is dependent on so many factors and changes from person to another, so we created an algorithim that will helps us calculate each person's absorbtion rate and needs, check d3algo.py for the algorithm.
 
 ## License
-This project is licensed under the MIT License.
+This project was submitted to CruzHacks 2023.
